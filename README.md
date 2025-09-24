@@ -1,4 +1,4 @@
-![Cybersecurity Labs](cybersecurity-labs.png)
+![Cybersecurity Labs](img/cybersecurity-labs.png)
 
 <hr>
 
